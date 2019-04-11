@@ -1,0 +1,5 @@
+s1 = input("1st No : ")
+s2 = input("2nd No : ")
+a = int(s1)
+b = int(s2)
+print("The sum = ",a+b)
